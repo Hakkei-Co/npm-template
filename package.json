@@ -2,7 +2,7 @@
   "version": "0.0.0",
   "name": "TODO",
   "umd:name": "TODO",
-  "repository": "TODO_USERNAME/TODO_REPO",
+  "repository": "hakkei-co/TODO_REPO",
   "description": "TODO_MODULE_DESCRIPTION",
   "unpkg": "dist/index.min.js",
   "module": "dist/index.mjs",
@@ -10,9 +10,9 @@
   "types": "types/index.d.ts",
   "license": "MIT",
   "author": {
-    "name": "TODO_YOUR_NAME",
-    "email": "YOUR_EMAIL@TODO.com",
-    "url": "https://TODO_WEBSITE.com"
+    "name": "Hakkei",
+    "email": "support@hakkei.co",
+    "url": "https://hakkei.co"
   },
   "files": [
     "dist",
